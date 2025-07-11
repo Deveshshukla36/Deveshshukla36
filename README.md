@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **The last podcast I listened to was Search Engine**
 
-<h3 align="left">Connect with me:https://in.linkedin.com/in/devesh-shukla-291009241</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
