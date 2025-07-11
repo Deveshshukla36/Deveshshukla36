@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **The last podcast I listened to was Search Engine**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/yourusername/" target="_blank">LinkedIn</a></h3>
 <p align="left">
 </p>
 
