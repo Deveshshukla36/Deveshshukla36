@@ -1,6 +1,6 @@
 ![logo](https://github.com/Deveshshukla36/Deveshshukla36/blob/main/hand-coding-concept-illustration_114360-8113.webp)
 <h1 align="center">Hi 👋, I'm Devesh Shukla</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <img align ="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/778b9cc0-8b75-4dee-99a7-2546294036c8">
 
