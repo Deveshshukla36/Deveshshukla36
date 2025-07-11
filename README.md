@@ -11,8 +11,7 @@
 
 - 🌱 I’m currently learning **Angular, and Vue.js**
 
-- 👨‍💻 All of my projects are available at [https://in.linkedin.com/in/devesh-shukla-291009241](https://in.linkedin.com/in/devesh-shukla-291009241)
-
+- 👨‍💻  All of my projects are available on [GitHub](https://github.com/Deveshshukla36?tab=repositories)
 - 📝 I regularly write articles on [Jumptobook.blog](Jumptobook.blog)
 
 - 💬 Ask me about **Java , html css web development computer architecture operating system computer network etc**
