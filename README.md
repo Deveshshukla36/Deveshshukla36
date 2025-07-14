@@ -1,12 +1,3 @@
-## 🔗 Connect with me
-
-📍 Bengaluru, Karnataka  
-🔗 [LinkedIn](https://in.linkedin.com/in/devesh-shukla-291009241)  
-🌐 [Portfolio Website](https://deveshshuklamyportfolio.framer.website/)  
-📧 [Email me](mailto:devesh19591@gmail.com)  
-📝 [Blog](https://jumptobook.blog)  
-📂 [GitHub Projects](https://github.com/Deveshshukla36?tab=repositories)
-
 ![logo](https://github.com/Deveshshukla36/Deveshshukla36/blob/main/hand-coding-concept-illustration_114360-8113.webp)
 <h1 align="center">Hi 👋, I'm Devesh Shukla</h1>
 <h3 align="center">A passionate Developer from India</h3>
