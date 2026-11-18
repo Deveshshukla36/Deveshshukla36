@@ -1,36 +1,49 @@
 
+Devesh Shukla — exploring Agentic AI, LLMs and Generative AI
 
-\<h1 align="center">Hi 👋, I'm Devesh Shukla\</h1>
-\<h3 align="center">Developer | Agentic AI Enthusiast | Software Engineer\</h3>
+ 
+ 
 
-\<img align="right" alt="coding" width="400" src="[https://github.com/user-attachments/assets/778b9cc0-8b75-4dee-99a7-2546294036c8](https://github.com/user-attachments/assets/778b9cc0-8b75-4dee-99a7-2546294036c8)">
+Terminal: whoami, interests and contact
 
-\<p align="left">
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=Deveshshukla36&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=Deveshshukla36\&label=Profile%20views\&color=0e75b6\&style=flat)" alt="Deveshshukla36" />
-\</p>
+◈ What pulls me in
+I'm fascinated by AI moving from prompt → response to goal → plan → act → reflect: systems that reason, call tools, remember context and work together as teams of agents. That's where I spend my time learning and building.
 
-- 🔭 I'm currently working on **AI-powered applications and Agentic AI systems**.
+Area of interest	What I explore
+🧠 Agentic AI	Autonomous agents, planning & reflection loops, multi-agent collaboration
+🔗 LLMs	RAG, embeddings, vector search, tool calling, agent memory
+⚡ Generative AI	LLM-powered apps, prompt & context design, AI workflows
+🔬 Machine Learning	Deep learning, NLP, computer vision
+💻 Software Development	Backend APIs, system design, full-stack web apps
+◈ Selected work
+📄 Social Hub — AI Resume Screening
 
-- 🌱 I'm currently exploring **Agentic AI, LLMs, RAG, Multi-Agent Systems and Generative AI**.
 
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Deveshshukla36?tab=repositories).
 
-- 💡 Interested in building **autonomous AI agents, intelligent applications and scalable software solutions**.
+Uses NLP and machine learning to parse resumes and rank them against a job description. Python · NLP · scikit-learn
 
-- 💬 Ask me about **Python, Java, Machine Learning, Generative AI, Agentic AI, Data Structures, Backend Development and Full-Stack Development**.
+🧪 AI & ML experiments
 
-- 📫 Reach me at [**devesh19591@gmail.com**](mailto\:devesh19591@gmail.com).
 
-- ⚡ I enjoy experimenting with new technologies and turning ideas into working products.
 
-\<h3 align="left">Connect with me: \<a href="[https://www.linkedin.com/in/devesh-shukla-291009241/](https://www.linkedin.com/in/devesh-shukla-291009241/)" target="\_blank">LinkedIn\</a>\</h3> \<p align="left"> \</p>
+Hands-on deep learning, NLP and computer-vision experiments. PyTorch · TensorFlow · OpenCV
 
-\<h3 align="left">Languages and Tools:\</h3>
+🤖 Agentic AI lab — in progress
 
-\<p align="left"> \<a href="[https://aws.amazon.com](https://aws.amazon.com)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)" alt="aws" width="40" height="40"/> \</a> \<a href="[https://www.cprogramming.com/](https://www.cprogramming.com/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)" alt="c" width="40" height="40"/> \</a> \<a href="[https://www.w3schools.com/cpp/](https://www.w3schools.com/cpp/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)" alt="cplusplus" width="40" height="40"/> \</a> \<a href="[https://www.w3schools.com/css/](https://www.w3schools.com/css/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)" alt="css3" width="40" height="40"/> \</a> \<a href="[https://expressjs.com](https://expressjs.com)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)" alt="express" width="40" height="40"/> \</a> \<a href="[https://cloud.google.com](https://cloud.google.com)" target="\_blank" rel="noreferrer"> \<img src="[https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)" alt="gcp" width="40" height="40"/> \</a> \<a href="[https://www.w3.org/html/](https://www.w3.org/html/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)" alt="html5" width="40" height="40"/> \</a> \<a href="[https://www.java.com](https://www.java.com)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)" alt="java" width="40" height="40"/> \</a> \<a href="[https://www.linux.org/](https://www.linux.org/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)" alt="linux" width="40" height="40"/> \</a> \<a href="[https://www.mongodb.com/](https://www.mongodb.com/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)" alt="mongodb" width="40" height="40"/> \</a> \<a href="[https://www.microsoft.com/en-us/sql-server](https://www.microsoft.com/en-us/sql-server)" target="\_blank" rel="noreferrer"> \<img src="[https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)" alt="mssql" width="40" height="40"/> \</a> \<a href="[https://www.mysql.com/](https://www.mysql.com/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)" alt="mysql" width="40" height="40"/> \</a> \<a href="[https://nodejs.org](https://nodejs.org)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)" alt="nodejs" width="40" height="40"/> \</a> \<a href="[https://www.python.org](https://www.python.org)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)" alt="python" width="40" height="40"/> \</a> \<a href="[https://reactjs.org/](https://reactjs.org/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)" alt="react" width="40" height="40"/> \</a> \<a href="[https://www.tensorflow.org](https://www.tensorflow.org)" target="\_blank" rel="noreferrer"> \<img src="[https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)" alt="tensorflow" width="40" height="40"/> \</a> \<a href="[https://vuejs.org/](https://vuejs.org/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg)" alt="vuejs" width="40" height="40"/> \</a> \</p>
 
-\<p> \<img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=Deveshshukla36&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=Deveshshukla36\&show_icons=true\&locale=en\&layout=compact)" alt="Deveshshukla36" /> \</p>
 
-\<p>&nbsp; \<img align="center" src="[https://github-readme-stats.vercel.app/api?username=Deveshshukla36&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=Deveshshukla36\&show_icons=true\&locale=en)" alt="Deveshshukla36" /> \</p>
+A multi-agent research assistant with tool use, retrieval and persistent memory. LangGraph · LangChain · FastAPI
 
-\<p> \<img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=Deveshshukla36](https://github-readme-streak-stats.herokuapp.com/?user=Deveshshukla36)" alt="Deveshshukla36" /> \</p>
+Tech stack orbit: Python, Java, C++, React, Node, LangGraph, PyTorch
+
+
+◈ Milestones
+🎯 GATE CS 2025	Score 435 · top 15%
+🥉 Hack The Space 2023	Bronze award · 3rd prize
+☁️ AWS	Generative AI Solutions
+☁️ Oracle Cloud	AI Foundations Associate
+☁️ Microsoft Azure	Azure Fundamentals
+◈ Activity
+
+Think beyond prompts. Build autonomous intelligence.
+
