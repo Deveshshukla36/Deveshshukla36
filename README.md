@@ -1,50 +1,105 @@
-![logo](https://github.com/Deveshshukla36/Deveshshukla36/blob/main/hand-coding-concept-illustration_114360-8113.webp)
-<h1 align="center">Hi 👋, I'm Devesh Shukla</h1>
-<h3 align="center">A passionate Developer from India</h3>
+ <div align="center">
 
-<img align ="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/778b9cc0-8b75-4dee-99a7-2546294036c8">
+# Devesh Shukla
 
+### AI ENGINEER · SOFTWARE ENGINEER
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deveshshukla36&label=Profile%20views&color=0e75b6&style=flat" alt="dmDeveshshukla36" /> </p>
+**Building intelligent applications and scalable software solutions.**
 
-- 🔭 I’m currently working on [AI-Based Plagiarism Detection Tool](https://github.com/your-username/ai-plagiarism-detector)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://deveshshuklamyportfolio.framer.website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devesh-shukla-291009241/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Deveshshukla36)
 
-- 🌱 I’m currently learning **Angular, and Vue.js**
+![Profile Views](https://komarev.com/ghpvc/?username=Deveshshukla36&style=flat-square&color=blueviolet)
 
-- 👨‍💻  All of my projects are available on [GitHub](https://github.com/Deveshshukla36?tab=repositories)
-- 📝 I regularly write articles on [Jumptobook.blog](Jumptobook.blog)
+</div>
 
-- 💬 Ask me about **Java , html css web development computer architecture operating system computer network etc**
+---
 
-- 📫 How to reach me **devesh19591@gmail.com**
+## `$ whoami`
 
-- ⚡ Fun fact **The last podcast I listened to was Search Engine**
+I'm **Devesh Shukla**, an AI-focused software engineer pursuing M.Tech in Computer Science & Engineering (AI) at **IIIT Naya Raipur**.
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/devesh-shukla-291009241/" target="_blank">LinkedIn</a></h3>
-<p align="left">
-</p>
+I'm passionate about building intelligent applications by combining Artificial Intelligence, Machine Learning and Software Engineering.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+I enjoy solving complex problems, developing scalable applications, experimenting with emerging AI technologies and turning ideas into practical software products.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deveshshukla36&show_icons=true&locale=en&layout=compact" alt="deveshhsukla36" /></p>
+### Current Interests
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deveshshukla36&show_icons=true&locale=en" alt="deveshhsukla36" /></p>
+- 🧠 **Artificial Intelligence:** Machine Learning, Deep Learning and Generative AI.
+- 👁️ **Computer Vision:** Object Detection, Image Processing and YOLO.
+- 🤖 **LLMs & AI Agents:** Large Language Models, RAG and Agentic AI.
+- 💻 **Software Engineering:** Data Structures, Algorithms, System Design and Backend Development.
+- 🌐 **Full-Stack Development:** Modern web applications, APIs and scalable architectures.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deveshshukla36&" alt="Deveshshukla36" /></p>
+## `$ tech_stack`
 
+**Programming Languages**
 
-<!--
-**Deveshshukla36/Deveshshukla36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Here are some ideas to get you started:
+**AI / Machine Learning / Generative AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Frontend / Backend Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Databases / Cloud / Developer Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+## `$ achievements`
+
+- **GATE CS 2025:** Score 435 · Qualified · Top 15%.
+- **Hack The Space 2023:** Bronze Award · 3rd Prize for SPIKE.
+- **AWS:** Generative AI Solutions Certification.
+- **Oracle:** Cloud AI Foundations Associate.
+- **Microsoft:** Azure Fundamentals.
+
+## `$ github_analytics`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Deveshshukla36&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshshukla36&layout=compact&theme=github_dark&hide_border=true" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Deveshshukla36&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+## `$ connect --with=devesh`
+
+<div align="center">
+
+**Always open to interesting ideas, collaborations and opportunities.**
+
+[GitHub](https://github.com/Deveshshukla36) · [LinkedIn](https://www.linkedin.com/in/devesh-shukla-291009241/) · [Portfolio](https://deveshshuklamyportfolio.framer.website/) · [Email](mailto:devesh19591@gmail.com)
+
+<br/>
+
+*Think. Build. Innovate.*
+
+</div>
