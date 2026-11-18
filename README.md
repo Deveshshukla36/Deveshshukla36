@@ -1,105 +1,141 @@
  <div align="center">
 
-# Devesh Shukla
+<img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=360&fit=crop" width="100%" alt="Developers collaborating on software"/>
 
-### AI ENGINEER · SOFTWARE ENGINEER
+# DEvesh SHUKLA
 
-**Building intelligent applications and scalable software solutions.**
+### Building the future with Agentic AI.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://deveshshuklamyportfolio.framer.website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devesh-shukla-291009241/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Deveshshukla36)
+**Agentic AI · LLMs · Generative AI · Software Engineering**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Deveshshukla36&style=flat-square&color=blueviolet)
+I build intelligent applications, explore autonomous AI agents, and engineer software that solves meaningful problems.
+
+<br/>
+
+<a href="https://github.com/Deveshshukla36"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/devesh-shukla-291009241/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://deveshshuklamyportfolio.framer.website/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=Deveshshukla36&style=flat-square&color=6366f1" alt="Profile views"/>
 
 </div>
 
 ---
 
-## `$ whoami`
+## About Me
 
-I'm **Devesh Shukla**, an AI-focused software engineer pursuing M.Tech in Computer Science & Engineering (AI) at **IIIT Naya Raipur**.
+Hey! I'm Devesh — a developer fascinated by the evolution of AI from simple prompt-based applications to autonomous, intelligent systems.
 
-I'm passionate about building intelligent applications by combining Artificial Intelligence, Machine Learning and Software Engineering.
+My primary interest is **Agentic AI**: building systems that can reason, plan, use tools, collaborate through multiple agents, and execute complex workflows.
 
-I enjoy solving complex problems, developing scalable applications, experimenting with emerging AI technologies and turning ideas into practical software products.
+Beyond AI, I enjoy working across the software development lifecycle, from designing backend architectures to building polished frontend experiences.
 
-### Current Interests
+- 🧠 Exploring Agentic AI, multi-agent systems and LLM orchestration.
+- ⚡ Interested in RAG, tool calling, AI memory and autonomous workflows.
+- 🔬 Experimenting with Machine Learning, Deep Learning and Computer Vision.
+- 💻 Building full-stack applications and scalable backend systems.
+- 🚀 Constantly learning, experimenting and building.
 
-- 🧠 **Artificial Intelligence:** Machine Learning, Deep Learning and Generative AI.
-- 👁️ **Computer Vision:** Object Detection, Image Processing and YOLO.
-- 🤖 **LLMs & AI Agents:** Large Language Models, RAG and Agentic AI.
-- 💻 **Software Engineering:** Data Structures, Algorithms, System Design and Backend Development.
-- 🌐 **Full-Stack Development:** Modern web applications, APIs and scalable architectures.
-
-## `$ tech_stack`
-
-**Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI / Machine Learning / Generative AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Frontend / Backend Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Databases / Cloud / Developer Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-## `$ achievements`
-
-- **GATE CS 2025:** Score 435 · Qualified · Top 15%.
-- **Hack The Space 2023:** Bronze Award · 3rd Prize for SPIKE.
-- **AWS:** Generative AI Solutions Certification.
-- **Oracle:** Cloud AI Foundations Associate.
-- **Microsoft:** Azure Fundamentals.
-
-## `$ github_analytics`
+## What I'm Exploring
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Deveshshukla36&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshshukla36&layout=compact&theme=github_dark&hide_border=true" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Deveshshukla36&theme=github-dark-blue&hide_border=true" />
+| Domain | Focus |
+|:---|:---|
+| 🧠 Agentic AI | Autonomous agents, planning, reasoning, multi-agent systems |
+| 🔗 LLM Engineering | RAG, embeddings, vector databases, tool calling |
+| ⚡ Generative AI | LLM applications, prompt engineering, AI workflows |
+| 🧪 AI Research | Deep Learning, ML, NLP, Computer Vision |
+| 💻 Software Engineering | System Design, APIs, backend architecture |
+| 🌐 Full-Stack | Modern frontend, databases, cloud deployment |
 
 </div>
 
-## `$ connect --with=devesh`
+## Featured Projects
+
+### 🤖 Agentic AI & Intelligent Applications
+
+**My primary area of exploration and development.**
+
+I'm particularly interested in building:
+
+- Autonomous AI agents capable of planning and executing multi-step tasks.
+- Multi-agent architectures with specialized agents collaborating on complex problems.
+- AI research assistants with retrieval, memory and contextual reasoning.
+- Tool-using AI applications that interact with external systems and APIs.
+
+### 📌 Selected Work
+
+**1. Social Hub — AI Resume Screening**
+
+An AI-based resume screening system using Natural Language Processing and Machine Learning.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Deveshshukla36/social-hub)
+
+**2. AI & Machine Learning Experiments**
+
+Exploring practical machine learning, deep learning and intelligent application development.
+
+[![Explore Repositories](https://img.shields.io/badge/Explore_GitHub_Projects-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/Deveshshukla36?tab=repositories)
+
+---
+
+## Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,r" />
+
+**AI / Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+
+**Web & Backend Development**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,fastapi,tailwind" />
+
+**Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,azure" />
+
+**Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+
+## Achievements
+
+- 🏆 GATE CS 2025 — Score: 435 (Top 15%).
+- 🥉 Bronze Award — 3rd Prize, Hack The Space Hackathon 2023.
+- ☁️ AWS Generative AI Solutions Certification.
+- ☁️ Oracle Cloud AI Foundations Associate.
+- ☁️ Microsoft Azure Fundamentals.
+
+## GitHub Activity
 
 <div align="center">
 
-**Always open to interesting ideas, collaborations and opportunities.**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Deveshshukla36&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-[GitHub](https://github.com/Deveshshukla36) · [LinkedIn](https://www.linkedin.com/in/devesh-shukla-291009241/) · [Portfolio](https://deveshshuklamyportfolio.framer.website/) · [Email](mailto:devesh19591@gmail.com)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshshukla36&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-*Think. Build. Innovate.*
+<img width="75%" src="https://streak-stats.demolab.com?user=Deveshshukla36&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Build Something Intelligent.
+
+Open to interesting ideas, collaborations and opportunities around Agentic AI, Generative AI and Software Engineering.
+
+<a href="mailto:devesh19591@gmail.com">📩 Get in Touch</a>
+
+<br/><br/>
+
+**Think Beyond Prompts. Build Autonomous Intelligence.**
 
 </div>
