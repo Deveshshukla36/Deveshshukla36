@@ -1,186 +1,36 @@
-<!-- ================= ANIMATED BANNER ================= -->
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6d28d9,100:06b6d4&height=260&section=header&text=Devesh%20Shukla&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Agentic%20AI%20%E2%80%A2%20LLM%20Engineer%20%E2%80%A2%20Software%20Engineer&descAlignY=58&descSize=20" width="100%" alt="Devesh Shukla banner"/>
 
-<a href="https://github.com/Deveshshukla36">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Building+autonomous+AI+agents+%F0%9F%A4%96;Multi-agent+systems+%E2%80%A2+RAG+%E2%80%A2+Tool+Calling;LLMs+that+reason%2C+plan+and+act+%E2%9A%A1;Full-stack+apps+with+an+AI+brain+%F0%9F%A7%A0;Think+beyond+prompts." alt="Typing animation"/>
-</a>
+\<h1 align="center">Hi 👋, I'm Devesh Shukla\</h1>
+\<h3 align="center">Developer | Agentic AI Enthusiast | Software Engineer\</h3>
 
-<br/>
+\<img align="right" alt="coding" width="400" src="[https://github.com/user-attachments/assets/778b9cc0-8b75-4dee-99a7-2546294036c8](https://github.com/user-attachments/assets/778b9cc0-8b75-4dee-99a7-2546294036c8)">
 
-<a href="https://www.linkedin.com/in/devesh-shukla-291009241/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://deveshshuklamyportfolio.framer.website/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=framer&logoColor=white"/></a>
-<a href="mailto:devesh19591@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Deveshshukla36?tab=repositories"><img src="https://img.shields.io/badge/Repos-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+\<p align="left">
+&#x20; \<img src="[https://komarev.com/ghpvc/?username=Deveshshukla36&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=Deveshshukla36\&label=Profile%20views\&color=0e75b6\&style=flat)" alt="Deveshshukla36" />
+\</p>
 
-<img src="https://komarev.com/ghpvc/?username=Deveshshukla36&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
+- 🔭 I'm currently working on **AI-powered applications and Agentic AI systems**.
 
-</div>
+- 🌱 I'm currently exploring **Agentic AI, LLMs, RAG, Multi-Agent Systems and Generative AI**.
 
----
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Deveshshukla36?tab=repositories).
 
-## 🧬 `whoami`
+- 💡 Interested in building **autonomous AI agents, intelligent applications and scalable software solutions**.
 
-```python
-class Devesh:
-    def __init__(self):
-        self.role       = "Agentic AI & Software Engineer"
-        self.focus      = ["Autonomous Agents", "Multi-Agent Systems", "RAG", "LLM Orchestration"]
-        self.also_into  = ["Full-Stack Development", "Machine Learning", "Computer Vision"]
-        self.currently  = "Building agents that reason, plan, use tools and remember"
-        self.motto      = "Think beyond prompts. Build autonomous intelligence."
+- 💬 Ask me about **Python, Java, Machine Learning, Generative AI, Agentic AI, Data Structures, Backend Development and Full-Stack Development**.
 
-    def say_hi(self):
-        return "Let's build something intelligent together 🚀"
-```
+- 📫 Reach me at [**devesh19591@gmail.com**](mailto\:devesh19591@gmail.com).
 
-I'm fascinated by AI's shift from **prompt → response** to **goal → plan → act → reflect**.
-I design systems where LLMs call tools, coordinate as teams of agents, retrieve knowledge and carry memory, then I ship them as full-stack products people can actually use.
+- ⚡ I enjoy experimenting with new technologies and turning ideas into working products.
 
----
+\<h3 align="left">Connect with me: \<a href="[https://www.linkedin.com/in/devesh-shukla-291009241/](https://www.linkedin.com/in/devesh-shukla-291009241/)" target="\_blank">LinkedIn\</a>\</h3> \<p align="left"> \</p>
 
-## 🤖 What I Build
+\<h3 align="left">Languages and Tools:\</h3>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+\<p align="left"> \<a href="[https://aws.amazon.com](https://aws.amazon.com)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)" alt="aws" width="40" height="40"/> \</a> \<a href="[https://www.cprogramming.com/](https://www.cprogramming.com/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)" alt="c" width="40" height="40"/> \</a> \<a href="[https://www.w3schools.com/cpp/](https://www.w3schools.com/cpp/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)" alt="cplusplus" width="40" height="40"/> \</a> \<a href="[https://www.w3schools.com/css/](https://www.w3schools.com/css/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)" alt="css3" width="40" height="40"/> \</a> \<a href="[https://expressjs.com](https://expressjs.com)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)" alt="express" width="40" height="40"/> \</a> \<a href="[https://cloud.google.com](https://cloud.google.com)" target="\_blank" rel="noreferrer"> \<img src="[https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)" alt="gcp" width="40" height="40"/> \</a> \<a href="[https://www.w3.org/html/](https://www.w3.org/html/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)" alt="html5" width="40" height="40"/> \</a> \<a href="[https://www.java.com](https://www.java.com)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)" alt="java" width="40" height="40"/> \</a> \<a href="[https://www.linux.org/](https://www.linux.org/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)" alt="linux" width="40" height="40"/> \</a> \<a href="[https://www.mongodb.com/](https://www.mongodb.com/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)" alt="mongodb" width="40" height="40"/> \</a> \<a href="[https://www.microsoft.com/en-us/sql-server](https://www.microsoft.com/en-us/sql-server)" target="\_blank" rel="noreferrer"> \<img src="[https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)" alt="mssql" width="40" height="40"/> \</a> \<a href="[https://www.mysql.com/](https://www.mysql.com/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)" alt="mysql" width="40" height="40"/> \</a> \<a href="[https://nodejs.org](https://nodejs.org)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)" alt="nodejs" width="40" height="40"/> \</a> \<a href="[https://www.python.org](https://www.python.org)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)" alt="python" width="40" height="40"/> \</a> \<a href="[https://reactjs.org/](https://reactjs.org/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)" alt="react" width="40" height="40"/> \</a> \<a href="[https://www.tensorflow.org](https://www.tensorflow.org)" target="\_blank" rel="noreferrer"> \<img src="[https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)" alt="tensorflow" width="40" height="40"/> \</a> \<a href="[https://vuejs.org/](https://vuejs.org/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg)" alt="vuejs" width="40" height="40"/> \</a> \</p>
 
-### 🧠 Agentic AI
-- Autonomous agents with planning & reflection loops
-- Multi-agent collaboration (planner · researcher · executor · critic)
-- Tool calling & function execution against real APIs
-- Persistent short / long-term agent memory
+\<p> \<img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=Deveshshukla36&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=Deveshshukla36\&show_icons=true\&locale=en\&layout=compact)" alt="Deveshshukla36" /> \</p>
 
-</td>
-<td width="50%" valign="top">
+\<p>&nbsp; \<img align="center" src="[https://github-readme-stats.vercel.app/api?username=Deveshshukla36&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=Deveshshukla36\&show_icons=true\&locale=en)" alt="Deveshshukla36" /> \</p>
 
-### 🔗 LLM Engineering
-- Retrieval-Augmented Generation pipelines
-- Embeddings & vector search
-- Structured outputs, evals & guardrails
-- Prompt + context engineering
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Software Engineering
-- REST / async APIs with FastAPI, Django, Node
-- System design & scalable backends
-- Clean architecture, testing, CI/CD
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 Machine Learning
-- Deep Learning with PyTorch & TensorFlow
-- NLP & Computer Vision (OpenCV)
-- Classical ML with scikit-learn
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Work
-
-<div align="center">
-
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-| 📄 **Social Hub — AI Resume Screening** | NLP + ML system that parses, scores and ranks resumes against job descriptions | `Python` `NLP` `scikit-learn` |
-| 🧪 **AI & ML Experiments** | Hands-on deep learning, NLP and computer-vision experiments | `PyTorch` `TensorFlow` `OpenCV` |
-| 🤖 **Agentic AI Lab** *(in progress)* | Multi-agent research assistant with tool use, RAG and persistent memory | `LangGraph` `LangChain` `FastAPI` |
-
-</div>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,r&perline=10" />
-
-**AI · ML · LLMs**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=10" /><br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vector%20DBs-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-**Web & Backend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,fastapi,tailwind,html,css&perline=10" />
-
-**Data & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,azure,docker&perline=10" />
-
-**Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,linux&perline=10" />
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| | |
-| :-- | :-- |
-| 🎯 **GATE CS 2025** | Score 435 · Top 15% |
-| 🥉 **Hack The Space 2023** | Bronze Award · 3rd Prize |
-| ☁️ **AWS** | Generative AI Solutions |
-| ☁️ **Oracle Cloud** | AI Foundations Associate |
-| ☁️ **Microsoft Azure** | Azure Fundamentals |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deveshshukla36&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=a78bfa&icon_color=06b6d4"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshshukla36&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=Deveshshukla36&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=06b6d4&currStreakLabel=a78bfa"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Deveshshukla36&bg_color=0d1117&color=a78bfa&line=06b6d4&point=ffffff&area=true&hide_border=true" alt="Contribution graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deveshshukla36/Deveshshukla36/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deveshshukla36/Deveshshukla36/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Deveshshukla36/Deveshshukla36/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Let's Build Something Intelligent
-
-Open to collaborations and opportunities in **Agentic AI**, **Generative AI** and **Software Engineering**.
-
-<a href="mailto:devesh19591@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-7C3AED?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6d28d9,100:0f0c29&height=140&section=footer&text=Think%20Beyond%20Prompts.&fontSize=28&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
-
-</div>
+\<p> \<img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=Deveshshukla36](https://github-readme-streak-stats.herokuapp.com/?user=Deveshshukla36)" alt="Deveshshukla36" /> \</p>
